@@ -5,6 +5,9 @@
     <c:param name="content">
         <c:choose>
             <c:when test="${report != null}">
+            <a href="<c:url value='/reportiine?id=${report.id}' />">
+            <img src="<c:url value='/img/heart.png' />"  alt="<c:url value='/img/heart.png' />">
+</a>
                 <h2>日報　詳細ページ</h2>
 
                 <table>

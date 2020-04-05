@@ -1,5 +1,15 @@
 @CHARSET "UTF-8";
 
+
+img{
+    width: 30px;
+    height: 20px;
+
+     float: right;
+
+}
+
+
 body {
     color: #333333;
     font-family: "Hiragino Kaku Gothic Pro",Meiryo,"MS PGothic",Helvetica,Arial,sans-serif;

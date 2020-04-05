@@ -45,3 +45,4 @@
 
     </c:param>
 </c:import>
+ <img src="./img/heart.png"  alt="./img/heart.png">
